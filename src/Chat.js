@@ -2,10 +2,8 @@ import { Avatar, IconButton } from "@material-ui/core";
 import {
   AttachFile,
   InsertEmoticon,
-  Mic,
   MoreVert,
   SearchOutlined,
-  SettingsInputAntenna,
 } from "@material-ui/icons";
 import MicIcon from "@material-ui/icons/Mic";
 import React from "react";
